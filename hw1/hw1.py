@@ -3,7 +3,7 @@ CMSC 14100
 Autumn 2024
 Homework #1
 
-YOUR NAME GOES HERE
+VITOR AGRIPINO MAIA GABAY
 
 People Consulted:
    For future assignments, you will be expected to list anyone (other than the
@@ -16,7 +16,7 @@ Online resources consulted:
 
 def add2():
     ### Replace None with 2 + 2 in the next line.
-    return None
+    return 2 + 2
 
 if __name__ == "__main__":
     print("2 + 2 is", add2())
